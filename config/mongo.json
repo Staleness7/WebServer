@@ -1,0 +1,15 @@
+{
+  "mongo": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "database": "game",
+    "user":"mongoUser",
+    "password":"mongoPass"
+  },
+  "statsMongo": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "database": "game"
+  },
+  "AutoIncrementStartAt":100000
+}
